@@ -356,7 +356,7 @@ aws iam create-account-alias --account-alias <alias>
 aws iam delete-account-alias --account-alias <alias>
 ```
 
-# Access Analyzer
+# <span style="color:red">Access Analyzer</span>
 #### Create an Analyzer
 ```
 aws accessanalyzer create-analyzer --analyzer-name <analyzer-name> --type ACCOUNT
