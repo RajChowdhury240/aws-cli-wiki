@@ -1,7 +1,7 @@
 # Site settings
-title: "Sliver C2"
+title: "AWS Cli Wiki"
 bye_message: "*ss*"
-baseurl: "/scripts/"
+baseurl: "/aws-cli-wiki/"
 url: "https://Rajchowdhury420.github.io"
 disqus: Rajchowdhury420
 
